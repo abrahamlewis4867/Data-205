@@ -9,3 +9,4 @@ I saw all of the different kinds of permits that the county issued and focused o
 2. Residential Permits.ipynb; this contains the jupyternotebook with my work on the residential permit data set.
 3. Tableau_links; contains all of the maps that I created.
 4. Read.me; Info about the project and title name.
+5. capstone.pptx; sildes in  powerpoint
