@@ -10,3 +10,4 @@ I saw all of the different kinds of permits that the county issued and focused o
 3. Tableau_links; contains all of the maps that I created.
 4. Read.me; Info about the project and title name.
 5. capstone.pptx; sildes in  powerpoint
+6. Capstone Final report.docx; Report on the project project
